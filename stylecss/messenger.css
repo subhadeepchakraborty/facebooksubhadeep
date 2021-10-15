@@ -1,0 +1,36 @@
+.container,.col-md-6
+{
+}
+ul li{display: inline-block;
+color:black;
+cursor:pointer;
+padding: 18px;
+font-size: 17px;
+padding-bottom: 0px;}
+ul li:hover
+{
+border-bottom: 2px solid black;}
+header
+{
+  margin-top: 2%;
+}
+#panel
+{background-color: white;
+border-radius: 40px;
+border: 20px solid #F2F3F4;
+}
+.card-img-top
+{
+  width: 100%;
+}
+#panel h4
+{font-weight: bold;}
+p{color:#B2BABB;
+padding: 5%;}
+footer
+{
+  padding-top: 2%;
+}
+footer .col-md-1:hover
+{cursor: pointer;color: red;}
+footer .col-md-6:hover{cursor: pointer;color: red;}
